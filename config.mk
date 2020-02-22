@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(call all-subdir-makefiles, $(LOCAL_PATH))
 
-# Brevent Packages
+# GoogleCameraMod Packages
 
 PRODUCT_PACKAGES += \
-    Brevent
+    GoogleCameraMod
